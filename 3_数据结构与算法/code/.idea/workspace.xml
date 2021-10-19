@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c56780d3-67bc-4fad-833d-e8a88a7cbe39" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../3.链表.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/file.template.settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/file.template.settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fileTemplates/includes/File Header.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/includes/File Header.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code/LinkedList/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/LinkedList/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code/LinkedList/SingleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/LinkedList/SingleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code/LinkedList/SingleLinkedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/LinkedList/SingleLinkedListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/SingleLinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/SingleLinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack/CalculateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/CalculateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack/StackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/StackDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +45,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.StackDemo">
-    <configuration name="ArrayQueueuDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queue.ArrayQueueuDemo" />
+  <component name="RunManager" selected="Application.CalculateDemo">
+    <configuration name="CalculateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.CalculateDemo" />
       <module name="code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Queue.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculateDemo" />
         <item itemvalue="Application.StackDemo" />
         <item itemvalue="Application.CircleLinkedListDemo" />
         <item itemvalue="Application.SingleLinkedListDemo" />
         <item itemvalue="Application.circleArrayQueue" />
-        <item itemvalue="Application.ArrayQueueuDemo" />
       </list>
     </recent_temporary>
   </component>

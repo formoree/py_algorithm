@@ -14,7 +14,7 @@ public class StackDemo {
         s.push(3);
         s.push(4);
         s.push(5);
-        s.pull();
+        s.pop();
         s.list();
     }
 }
@@ -50,7 +50,7 @@ class stack{
     }
 
     //出栈
-    public void pull(){
+    public void pop(){
         if(isEmpty()){
             System.out.println("栈空，无法再移除元素");
             return;
